@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "8a468500-e23f-469b-9868-95e3491fd460",
+        "fields": {
+            "title": "Maze Runner",
+            "author": "James Dashner",
+            "price": "24.00",
+            "date_publication": "2005-12-01",
+            "cover": "covers/Lightweight.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "afabc2ec-958d-4a77-80c7-98205c1cdb22",
+        "fields": {
+            "title": "Hunger Games",
+            "author": "Suzanne Collins",
+            "price": "23.00",
+            "date_publication": "2000-06-12",
+            "cover": "covers/home.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "da965f29-aaaa-428f-ae59-f190f2dc10f5",
+        "fields": {
+            "title": "Harry Potter",
+            "author": "JK Rowling",
+            "price": "35.00",
+            "date_publication": "2002-02-01",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    }
+]
